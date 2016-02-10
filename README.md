@@ -16,17 +16,17 @@ Currently supported keys are:
   * Example: OIC-Release-1.0.0
 
 ## Resulting examples:
-* [The OIC's data model OIC-Release-1.0.0 version] (https://cdn.rawgit.com/stephanesan/api-designer/master/raml-designer-4-git.html?gitRepo=OpenInterConnect/IoTDataModels&gitRef=OIC-Release-1.0.0).
+* [The OIC's data model OIC-Release-1.0.0 version] (https://cdn.rawgit.com/OpenInterConnect/api-designer/master/raml-designer-4-git.html?gitRepo=OpenInterConnect/IoTDataModels&gitRef=OIC-Release-1.0.0).
 ```
-https://cdn.rawgit.com/stephanesan/api-designer/master/raml-designer-4-git.html?gitRepo=OpenInterConnect/IoTDataModels&gitRef=OIC-Release-1.0.0
+https://cdn.rawgit.com/OpenInterConnect/api-designer/master/raml-designer-4-git.html?gitRepo=OpenInterConnect/IoTDataModels&gitRef=OIC-Release-1.0.0
 ```
-* [The latest (master) OIC data model] (https://cdn.rawgit.com/stephanesan/api-designer/master/raml-designer-4-git.html?gitRepo=OpenInterConnect/IoTDataModels).
+* [The latest (master) OIC data model] (https://cdn.rawgit.com/OpenInterConnect/api-designer/master/raml-designer-4-git.html?gitRepo=OpenInterConnect/IoTDataModels).
 ```
-https://cdn.rawgit.com/stephanesan/api-designer/master/raml-designer-4-git.html?gitRepo=OpenInterConnect/IoTDataModels
+https://cdn.rawgit.com/OpenInterConnect/api-designer/master/raml-designer-4-git.html?gitRepo=OpenInterConnect/IoTDataModels
 ```
-* Some [example raml] (https://cdn.rawgit.com/stephanesan/api-designer/master/raml-designer-4-git.html?gitRepo=mulesoft/api-console&gitPath=dist/examples) files hosted under the 'mulesoft/api-console' repo at the 'dist/examples' path.
+* Some [example raml] (https://cdn.rawgit.com/OpenInterConnect/api-designer/master/raml-designer-4-git.html?gitRepo=mulesoft/api-console&gitPath=dist/examples) files hosted under the 'mulesoft/api-console' repo at the 'dist/examples' path.
 ```
-https://cdn.rawgit.com/stephanesan/api-designer/master/raml-designer-4-git.html?gitRepo=mulesoft/api-console&gitPath=dist/examples
+https://cdn.rawgit.com/OpenInterConnect/api-designer/master/raml-designer-4-git.html?gitRepo=mulesoft/api-console&gitPath=dist/examples
 ```
 ## License
 [CPAL-1.0] (https://opensource.org/licenses/CPAL-1.0)
